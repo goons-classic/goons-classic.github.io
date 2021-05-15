@@ -1,7 +1,7 @@
 
 
 
-![](https://lh4.googleusercontent.com/W5lgNRLmEACMsOgP6EeebgdrBs235TjRHUl0q9I7RajC_Qz0QHOeNY3s9E-uD2fgiuJ_2BZpezX6YBXYm5lATLzHbNnWkWb92SDfwEPWdqII24MzKtNzfflv2JkWyOtLoDJ-H5rA)
+![](https://i.imgur.com/zRWpjCp.jpeg)
 
 ## Goons Field Guide
 

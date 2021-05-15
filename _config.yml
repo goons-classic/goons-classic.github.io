@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Goons Field Guide
 email: ""
+description: Your handy field book for all things GOONS.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

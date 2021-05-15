@@ -1,31 +1,25 @@
-## Guild Structure
+### Guild Structure
  - **Lyyna** -  Guild master  
  -  **Pingvin** - Raid leader / Guild bank  
  -  **Flippey** - Karazhan portals and Refreshment tables 
  -  **Zarkasm** -  He's a real nice guy. 
 
-### Ranks
 We use the following ranks, starting with the lowest rank:
 
 Social / Alt > Trial > Member > Raider > Veteran > Officer > Guild Master
 
 Anyone who wants to raid with us will be given a trial period of about 2-4 weeks. Show us that you have a functioning brain and you won't have much to worry about.
 
-## Raiding
-
-### Schedule
+### Raiding schedule
 
 Official raid days are **Thursday and Sunday 20:00 – 23:00 ST.** We expect our raiders to be available for both days. 
 Additionally we will do some optional raids on other days if there is enough interest.
-
-### Joining a raid
 
 Check the guild message of the day in-game for whom to whisper for invite. It is important that you only whisper “inv” because we use auto-invite. Please try to be in the raid 19.50 at the latest.
 
 ### Signing up for raids
 
 We use a discord bot to manage raid signups. We will post events in the designated channels:
-
     #thursday-signup, #sunday-signup or #off-raid-signup
 
 -   Click your class / spec icon on the event to sign up.

@@ -35,7 +35,6 @@ We use a discord bot to manage raid signups. We will post events in the designat
     #thursday-signup, #sunday-signup or #off-raid-signup
 
 -   Click your class / spec icon on the event to sign up.
--     
 -   If you are unable to attend the raid, please click on Absence/Tentative/Late (depending on your situation). 
     
 -   If you haven’t signed up to the raid, but still show up, we may be inclined to replace you for someone who has signed up.

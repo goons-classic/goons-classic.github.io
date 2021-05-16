@@ -10,6 +10,8 @@
 Goons are one of the first settlers on Earthshaker. The unbearable queues on Firemaw in the first 2 weeks of Classic resulted in us having to make a new start on a fresh server. Vanilla classic has come to an end, and it has been a crazy ride for us and one hell of a journey. We managed to clear all the content, and had a lot of fun doing it. Now our focus will be do to the same for TBC.
 
 ### Guild Structure
+The guild is managed by:
+
  - **Lyyna** -  Guild master  
  -  **Pingvin** - Raid leader / Guild bank  
  -  **Flippey** - Karazhan portals and Refreshment tables 

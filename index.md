@@ -1,6 +1,7 @@
 
 
 
+
 ![](https://i.imgur.com/zRWpjCp.jpeg)
 
 ## Goons Field Guide
@@ -16,7 +17,7 @@ Goons are one of the first settlers on Earthshaker. The unbearable queues on Fir
 
 We use the following ranks, starting with the lowest rank:
 
-Social / Alt > Trial > Member > Raider > Veteran > Officer > Guild Master
+     Social / Alt > Trial > Member > Raider > Veteran > Officer > Guild Master
 
 Anyone who wants to raid with us will be given a trial period of about 2-4 weeks. Show us that you have a functioning brain and you won't have much to worry about.
 
@@ -34,7 +35,7 @@ We use a discord bot to manage raid signups. We will post events in the designat
     #thursday-signup, #sunday-signup or #off-raid-signup
 
 -   Click your class / spec icon on the event to sign up.
-    
+-     
 -   If you are unable to attend the raid, please click on Absence/Tentative/Late (depending on your situation). 
     
 -   If you haven’t signed up to the raid, but still show up, we may be inclined to replace you for someone who has signed up.

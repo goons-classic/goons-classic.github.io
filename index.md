@@ -30,6 +30,7 @@ Check the guild message of the day in-game for whom to whisper for invite. It is
 ### Signing up for raids
 
 We use a discord bot to manage raid signups. We will post events in the designated channels:
+
     #thursday-signup, #sunday-signup or #off-raid-signup
 
 -   Click your class / spec icon on the event to sign up.

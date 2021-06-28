@@ -37,17 +37,13 @@ We use a discord bot to manage raid signups. We will post events in the designat
     #thursday-signup, #sunday-signup or #off-raid-signup
 
 -   Click your class icon on the event to sign up.
--   
 -   If this is your first time, the raid-helper bot will send you a DM asking for your spec.
--   
--   If you are unable to attend the raid, please click on Absence/Tentative/Late (depending on your situation). 
-    
+-   If you are unable to attend the raid, please click on Absence/Tentative/Late (depending on your situation).     
 -   If you haven’t signed up to the raid, but still show up, we may be inclined to replace you for someone who has signed up.
     
 
 ### Preparation
 - For the first phase there will be no strict consumable requirements, but everyone is encouraged to use the correct consumables for their class. [link](https://tbc.wowhead.com/guides/raid-consumables-flasks-elixirs-potions-wow-burning-crusade-classic)
-- 
 - In phase 2 + consumables will be required for the the "main" roster.
 - Read up on tactics for bosses you are unfamiliar with.
 

@@ -43,7 +43,7 @@ We use a discord bot to manage raid signups. We will post events in the designat
     
 
 ### Preparation
-- For the first phase there will be no strict consumable requirements, but everyone is encouraged to use the correct consumables for their class. [link](https://tbc.wowhead.com/guides/raid-consumables-flasks-elixirs-potions-wow-burning-crusade-classic)
+- For the first phase there will be no strict consumable requirements, but everyone is encouraged to use the correct consumables for their class. [See this link](https://tbc.wowhead.com/guides/raid-consumables-flasks-elixirs-potions-wow-burning-crusade-classic)
 - In phase 2 + consumables will be required for the the "main" roster.
 - Read up on tactics for bosses you are unfamiliar with.
 
